@@ -10,6 +10,8 @@ You can fork this repository and start contributing to it. Some guidelines are e
 5. Include a README.md file with screenshots/video to showcase what you've created.
 6. It would be best if the code is in Kotlin.
 
+Feel free to look into existing projects and raise a PR for possible 🐛bug fixes/improvements.
+
 ### License
 ```
 MIT License
