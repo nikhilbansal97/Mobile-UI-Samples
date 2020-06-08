@@ -1,9 +1,0 @@
-[submodule "Instagram-Gallery-Animation"]
-	path = Instagram-Gallery-Animation
-	url = git@github.com:nikhilbansal97/Instagram-Gallery-Animation.git
-[submodule "Google-Pay-Coupons"]
-	path = Google-Pay-Coupons
-	url = git@github.com:nikhilbansal97/Google-Pay-Coupons.git
-[submodule "SwiggyOfferConcept"]
-	path = SwiggyOfferConcept
-	url = git@github.com:nikhilbansal97/SwiggyOfferConcept.git
