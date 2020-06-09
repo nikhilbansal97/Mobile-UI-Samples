@@ -4,7 +4,7 @@
 This repository contains one of the ways to implement the Instagram Gallery Image Overshoot Animation.
 
 ## Screenshots
-![Screenshot](/screenshots/animation.gif)
+![Screenshot](/Instagram-Gallery-Animation/screenshots/animation.gif)
 
 ## Contributing
 Any other/better ways to implement this animation are welcome! You can fork the repository and start working on another branch. 
