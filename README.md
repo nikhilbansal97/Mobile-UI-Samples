@@ -1,5 +1,5 @@
 # Mobile UI Samples
-The aim is to maintain a central repository that hosts animations/feature implementations in live production apps so that others know how to do it.
+The aim is to maintain a central repository that hosts animations/feature implementations in live production apps so that others know how to do it. The implementations can be in any platform like Android, iOS, Flutter etc.
 
 ### Contribution
 You can fork this repository and start contributing to it. Some guidelines are established so that the maintainenance of the repository is easier:
