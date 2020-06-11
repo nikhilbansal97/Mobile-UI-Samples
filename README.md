@@ -1,4 +1,4 @@
-# Android UI Samples
+# Mobile UI Samples
 The aim is to maintain a central repository that hosts animations/feature implementations in live production apps so that others know how to do it.
 
 ### Contribution
